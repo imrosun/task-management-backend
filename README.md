@@ -6,6 +6,7 @@ First, clone this frontend repository:
 
 ```bash
 git clone https://github.com/imrosun/task-management-application.git
+cd task-management-application
 # or 
 download zip from Green background <> Code button.
 ```
@@ -14,6 +15,7 @@ Second, clone backend repository:
 
 ```bash
 git clone https://github.com/imrosun/task-management-backend.git
+cd task-management-backend
 # or 
 download zip from Green background <> Code button.
 ```
